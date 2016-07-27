@@ -4,7 +4,7 @@ This repo has all my code (including the starter code; starting from wk2) from t
 Link to coursera course: http://www.ml-class.org
 
 # Notes
-  - I have used GNU Octave in all the assigments. 
+  - I have used GNU Octave (version 4.0.3) in all the assigments. 
   - All image formats are .png
 
 
