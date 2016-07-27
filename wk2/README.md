@@ -8,7 +8,7 @@ The multivariate regression is especially interesting as it takes in multiple fe
   - computeCost.m and computeCostMulti.m use the same code
   - gradientDescent.m and gradientDescentMulti.m use the same code
 
-# Topics learned
+# Topics learnt
   - Linear regression with one variable (univariate)
   - Linear regression with more than one variable (multivariate)
   - Feature Normalization where mu = 0, sigma = 1 (like normal-gaussian pdf)
@@ -18,13 +18,23 @@ The multivariate regression is especially interesting as it takes in multiple fe
 # Final result
 
 ==                                   Part Name |     Score | Feedback
+
 ==                                   --------- |     ----- | --------
+
 ==                            Warm-up Exercise |  10 /  10 | Nice work!
+
 ==           Computing Cost (for One Variable) |  40 /  40 | Nice work!
+
 ==         Gradient Descent (for One Variable) |  50 /  50 | Nice work!
+
 ==                       Feature Normalization |   0 /   0 | Nice work!
+
 ==     Computing Cost (for Multiple Variables) |   0 /   0 | Nice work!
+
 ==   Gradient Descent (for Multiple Variables) |   0 /   0 | Nice work!
+
 ==                            Normal Equations |   0 /   0 | Nice work!
+
 ==                                   --------------------------------
+
 ==                                             | 100 / 100 | 
