@@ -35,6 +35,8 @@ grad = zeros(size(theta));
 %           temp(1) = 0;   % because we don't add anything for j = 0  
 %           grad = grad + YOUR_CODE_HERE (using the temp variable)
 
+%newTheta, newX are required for the regularized form since the bias unit (x_0) is not used in gradient descent and cost computation
+
 n = size(theta);
 
 %modified theta starting from 2nd feature [size: n x 1]
