@@ -1,4 +1,4 @@
-## Intro
+## Introduction
 
 This folder has the assignments for week 2. It starts off applied machine learning by discussing concepts of univariate and multivariate linear regression. 
 
