@@ -1,4 +1,4 @@
-## Intro
+## Logistic regression
 
 This folder has the assignments for week 3. It discusses logistic regression (which is, essentially, just classification) and it also covered some concepts of regularization. Regularization is pretty good. First, you add more features by using the same data points you have and just making your decision boundary more expressive so it can adjust to varying data sets. 
 
