@@ -11,7 +11,7 @@ I learnt a lot from this week - it is understandably just supervised learning bu
  - OneVsAll classification is really interesting! Taking the example of handwriting recognition itself, after training your data sets, given new data, you can classify it as anything from 0-9; Neural Networks make the computation much easier.
  - The Neural Newtorks method produced greater accuracy - but that's probably just how the data sets were trained (i.e. the parameters were weighted) maybe by some method other than gradient descent. 
 
-## Topics learnt
+## Topics you'll learn
  - Neural Networks Architecture
  - OneVsAll classification
  - Regularization on multiclass logistic regression
