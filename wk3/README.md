@@ -4,7 +4,7 @@ This folder has the assignments for week 3. It discusses logistic regression (wh
 
 Some cases where it's extensively used: classifying emails as spam or not. Classifying some groups of students and basically grouping into binary groups. 
 
-## Topics you'll learn
+## What you'll learn
   - Logistic regression
   - Classification
   - Regularization (using lambda to minimize feature values)
