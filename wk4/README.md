@@ -1,4 +1,4 @@
-## Intro
+## Neural networks: representation
 
 This folder has the assignments for week 4. Week 4 talks about neural networks and how perceptron's take in weights as input and can predict the probability of some supervised problem using the sigmoid function. We can use it to make AND, OR, gates using 2 layer neural networks; however, a more complex network (3 layers) is required for an XOR or XNOR gate.
 
