@@ -2,4 +2,4 @@
 
 ## Notes
 
-## Topics learnt
+## Topics you'll learn
