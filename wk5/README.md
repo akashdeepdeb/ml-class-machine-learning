@@ -1,5 +1,5 @@
-#Week 5 - Neural Networks - Learning
-##Intro
+
+##Neural networks: learning
 In this week you'll learn a really cool concept called backpropogation. Backpropogation is initially a little hard to understand, and admittedly, I don't understand it well enough myself, but it gets easier to get a grasp of after you've done the assignments and while you're doing it. In the earlier week, you directly use the weights of the neural network given to you in the assignment; here, you have to train your datasets to learn these weights and regularize it with a good choice of lambda to get an accuracy >95%
 
 ##Notes
